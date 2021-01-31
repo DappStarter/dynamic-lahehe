@@ -1,0 +1,16 @@
+{
+    "name": "SurfsUp",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/supply": "10000000000",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/symbol": "SUP",
+        "/category/asset_value_tracking/token/name": "SurfsUp",
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/collection/entity": true
+    }
+}
